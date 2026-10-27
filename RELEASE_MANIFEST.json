@@ -718,6 +718,11 @@
       "source_sha256": "4307a54e832502418eefed79dff521e09dea607d6ac310f1372d86eea3c7dd3c"
     },
     {
+      "file": "repos/beir/CONTRIBUTORS.txt",
+      "sha256": "21ad25c6c33885b8cc834f710e41967ba92b57d00e07cc2ead3b7c362345118c",
+      "source_sha256": "21ad25c6c33885b8cc834f710e41967ba92b57d00e07cc2ead3b7c362345118c"
+    },
+    {
       "file": "repos/beir/examples/beir-pyserini/config.py",
       "sha256": "3a6af2befaee5457a9ede356a21cd322b704eb2938bedd3daf72144eef29dac0",
       "source_sha256": "3a6af2befaee5457a9ede356a21cd322b704eb2938bedd3daf72144eef29dac0"
